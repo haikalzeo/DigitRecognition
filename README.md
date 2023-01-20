@@ -1,4 +1,4 @@
-# DigitRecognition
+# Drawable Digit Recognition
 
 Click the Button Below To Acces Our Streamlit App!
 
