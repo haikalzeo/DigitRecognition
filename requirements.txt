@@ -2,4 +2,3 @@ numpy==1.20.3
 streamlit==1.13.0
 streamlit-drawable-canvas>=0.8
 opencv-python-headless
-pickle
