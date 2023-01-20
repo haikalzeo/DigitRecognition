@@ -2,7 +2,7 @@ import numpy as np
 import streamlit as st
 from streamlit_drawable_canvas import st_canvas
 import cv2
-import joblib
+import pickle
 
 st.title("Drawable Digit Recognition using Support Vector Machine")
 st.markdown("> This app demonstrates Digit Recognition using SVM. The app allows users draw digits on to a canvas and an image with prediction digits will be shown as the result.")
@@ -81,7 +81,9 @@ def resize(image, dim):
     
     return resized	
 
-model_svm_model = joblib.load("DigitRecognition_SVM_Model.pt")
+file = open('DigitRecognition_SVM_Model.pt', 'rb')
+digitRecognition_SVM_Model = pickle.load(file)
+file.close()
 
 def recognize_digit(image):
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
@@ -106,7 +108,7 @@ def recognize_digit(image):
         result = number.reshape((1, 400))
 
         result = result.astype(np.float32)
-        res = model_svm_model.predict(result)
+        res = digitRecognition_SVM_Model.predict(result)
         n = str(int(float(res)))
         display.append(n)
 
