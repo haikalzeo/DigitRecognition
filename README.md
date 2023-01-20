@@ -1,6 +1,7 @@
 # DigitRecognition
 
-Click the Button Below To Acces Our Streamlit App
+Click the Button Below To Acces Our Streamlit App!
+
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fadlyhaikal-digitrecognition-app-c7mmqs.streamlit.app)
 
 How to Run digitrecognation.ipynb
