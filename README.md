@@ -5,9 +5,7 @@ Drawable Digit Recognition based on a website application is a form of applicati
 Click the Button Below To Acces Our Streamlit App, Presentation or Paper!
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://fadlyhaikal-digitrecognition-app-c7mmqs.streamlit.app)
-
 [![Presentation](https://img.shields.io/static/v1?label=PDF&message=Presentation&color=red)](https://github.com/FadlyHaikal/DigitRecognition/blob/main/Digit%20Recognition%20Presentation.pdf)
-
 [![Paper](https://img.shields.io/static/v1?label=PDF&message=Paper&color=blue)](https://github.com/FadlyHaikal/DigitRecognition/blob/main/A%20Comparative%20Study%20on%20Handwritten%20Digit%20Recognition%20using%20Supervised%20Learning%20and%20Deep%20Learning%20with%20The%20Application%20based%20on%20Website%20Application.pdf)
 
 How to Run digitrecognition.ipynb in Google Colab
