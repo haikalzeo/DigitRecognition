@@ -13,6 +13,6 @@ How to Run digitrecognition.ipynb in Google Colab
 4. Boom! Now you can freely run digitrecognition.ipynb in Google Colab
 
 ## Report
-For the Presentation, then [![click here]](https://github.com/FadlyHaikal/DigitRecognition/blob/main/Digit%20Recognition%20Presentation.pdf)
+For the Presentation, then [![Presentation](https://img.shields.io/static/v1?label=PDF&message=Presentation&color=red)](https://github.com/FadlyHaikal/DigitRecognition/blob/main/Digit%20Recognition%20Presentation.pdf)
 
-For the Paper & Documentation, then [click here](https://github.com/FadlyHaikal/DigitRecognition/blob/main/A%20Comparative%20Study%20on%20Handwritten%20Digit%20Recognition%20using%20Supervised%20Learning%20and%20Deep%20Learning%20with%20The%20Application%20based%20on%20Website%20Application.pdf)
+For the Paper & Documentation, then [Paper][![click here](https://img.shields.io/static/v1?label=PDF&message=Paper&color=blue)](https://github.com/FadlyHaikal/DigitRecognition/blob/main/A%20Comparative%20Study%20on%20Handwritten%20Digit%20Recognition%20using%20Supervised%20Learning%20and%20Deep%20Learning%20with%20The%20Application%20based%20on%20Website%20Application.pdf)
