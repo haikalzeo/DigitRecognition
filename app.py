@@ -6,7 +6,7 @@ import joblib
 
 st.title("Drawable Digit Recognition using Support Vector Machine")
 st.markdown("> This app demonstrates Digit Recognition using SVM. The app allows users draw digits on to a canvas and an image with prediction digits will be shown as the result.")
-st.markdown(">Disclaimer : The performance of our SVM Model on Drawable Digit Recognition showed a realistic results")
+st.markdown(">Disclaimer : The performance of our SVM Model on Drawable Digit Recognition showed a realistic results as a Classification Model, therefore some of the number predication may still be wrong.")
 st.header("🎲 How to Use the Application")
 st.markdown(
     """
