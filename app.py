@@ -36,7 +36,7 @@ canvas_result = st_canvas(
     display_toolbar=True,
     key="full_app",
 )
-
+st.markdown("*Please Press ⬇️ Send Button in the bottom left of the canvas, otherwise an error may occur!")
 predict = st.button("Predict")
 
 def drawSquare(image):
