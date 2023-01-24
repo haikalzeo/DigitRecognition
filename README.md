@@ -1,6 +1,6 @@
 # Drawable Digit Recognition
 
-Drawable Digit Recognition based on a website application is a form of application of the method theory recognition of handwritten digits using Supervised Learning The algorithm is the KNN Algorithm (K-Nearest Neighbors algorithm) such as KNN with OpenCV Library and KNN with Scikit-Learn Library, Random Forest Classification Algorithm and SVM (Support Vector Machine Algorithm) Algorithm and with Deep Learning Algorithm, CNN (Convolutional Neural Network) with TensorFlow.
+Drawable Digit Recognition based on a website application is a form of application of the method theory recognition of handwritten digits using Supervised Learning, the algorithm are KNN Algorithm (K-Nearest Neighbors algorithm) such as KNN with OpenCV Library and KNN with Scikit-Learn Library, Random Forest Classification Algorithm and SVM (Support Vector Machine Algorithm) Algorithm and with Deep Learning Algorithm, CNN (Convolutional Neural Network) with TensorFlow.
 
 Click the Button Below To Acces Our Streamlit App, Presentation or Paper!
 
